@@ -1,0 +1,37 @@
+﻿Variable,Descripción,Tipo,Tipo_Dato,Valores_Únicos,Valores_Faltantes,% Faltantes
+Depreg,Departamento de registro,Numérica Continua,float64,22,0,0.00%
+Mupreg,Municipio de registro,Categórica,str,340,145102,15.06%
+Mesreg,Mes de registro,Numérica Discreta,float64,12,0,0.00%
+Añoreg,Año de registro,Numérica Discreta,float64,12,0,0.00%
+Depocu,Departamento de ocurrencia,Numérica Continua,float64,22,0,0.00%
+Mupocu,Municipio de ocurrencia,Categórica,str,340,145102,15.06%
+Areag,Área geográfica de ocurrencia,Numérica Discreta,float64,3,264672,27.46%
+Sexo,Sexo del difunto(a),Numérica Discreta,float64,2,0,0.00%
+Diaocu,Día de ocurrencia,Numérica Continua,float64,31,0,0.00%
+Mesocu,Mes de ocurrencia,Numérica Discreta,float64,12,0,0.00%
+Añoocu,Año de ocurrencia,Numérica Discreta,float64,6,372205,38.62%
+Edadif,"Edad del difunto(a) Nota: para seleccionar esta variable, se debe vincular con la variable periodo de edad del difunto (a)",Numérica Continua,float64,122,0,0.00%
+Perdif,"Periodo de edad del difunto(a) Nota: para seleccionar esta variable, se debe vincular con la variable edad del difunto (a)",Numérica Discreta,float64,4,0,0.00%
+Puedif,Pueblo de pertenencia del difunto(a),Numérica Discreta,float64,6,217759,22.59%
+Ecidif,Estado civil del difunto(a),Numérica Discreta,float64,4,0,0.00%
+Escodif,Escolaridad del difunto(a),Numérica Discreta,float64,7,0,0.00%
+Ciuodif,Ocupación (Subgrupos CIUO-08) del difunto (a),Categórica,str,46,217759,22.59%
+Pnadif,Pais de nacimiento del difunto(a),Numérica Continua,float64,89,145102,15.06%
+Dnadif,Departamento de nacimiento del difunto(a),Numérica Continua,float64,25,0,0.00%
+Mnadif,Municipio de nacimiento del difunto(a),Categórica,str,345,72748,7.55%
+Nacdif,Nacionalidad del difunto(a),Numérica Continua,float64,93,0,0.00%
+Predif,Pais de residencia del difunto(a),Numérica Continua,float64,39,145102,15.06%
+Dredif,Departamento de residencia del difunto(a),Numérica Continua,float64,24,0,0.00%
+Mredif,Municipio de residencia del difunto(a),Categórica,str,342,0,0.00%
+Caudef,Causa de defuncion,Categórica,str,3281,0,0.00%
+Asist,Asistencia recibida,Numérica Discreta,float64,6,0,0.00%
+Ocur,Sitio de ocurrencia,Numérica Discreta,float64,9,0,0.00%
+Cerdef,Quien certifica,Numérica Discreta,float64,4,0,0.00%
+ANIO,Sin descripción,Numérica Discreta,int64,12,0,0.00%
+mupreg,Sin descripción,Categórica,str,333,818668,84.94%
+mupocu,Sin descripción,Categórica,str,333,818668,84.94%
+añoocu,Sin descripción,Numérica Discreta,float64,2,818668,84.94%
+Getdif,Sin descripción,Numérica Discreta,float64,3,746011,77.41%
+Ocudif,Sin descripción,Categórica,str,255,746011,77.41%
+mnadif,Sin descripción,Categórica,str,335,891022,92.45%
+caudef.descrip,Sin descripción,Categórica,str,1452,887131,92.05%

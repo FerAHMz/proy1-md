@@ -42,3 +42,5 @@ dist/
 
 # Environment variables
 .env
+
+catboost_info/
